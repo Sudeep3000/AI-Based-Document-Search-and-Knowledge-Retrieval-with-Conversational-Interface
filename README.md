@@ -36,7 +36,7 @@ The objective of this milestone is to build a robust pipeline that:
 
 ## Project Structure
 
-```
+
 
 AI-Based-Document-Search-and-Knowledge-Retrieval-with-Conversational-Interface/
 │
@@ -51,7 +51,7 @@ AI-Based-Document-Search-and-Knowledge-Retrieval-with-Conversational-Interface/
 ├── main.py
 └── requirements.txt
 
-````
+
 
 ---
 
